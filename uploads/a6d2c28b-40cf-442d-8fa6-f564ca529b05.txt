@@ -1,0 +1,1 @@
+This test policy says refunds are available within 30 days with a receipt. Support email is help@example.com.
